@@ -6,7 +6,12 @@
 
 <h3 align="left">👨‍💻 Let me dive into a few of my latest endeavors: </h3>
 
-<p align="left">1. <a href="https://github.com/AbhishekSingh-77/Travel-World/tree/master">Travel-World</a></p>
+<p align="left">
+  <p><a href="https://abhisheksingh-77.github.io/Professional-Profile/">Professional-Profile</a></p>
+  <p><a href="https://abhisheksingh-77.github.io/Travel-World/">Travel-World</a></p>
+  <p><a href="https://abhisheksingh-77.github.io/Scholar-Tutorial/">Scholar-Tutorial</a></p>
+  <p><a href="https://abhisheksingh-77.github.io/College-Festive/">College-Festive</a></p>
+</p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <br/>
