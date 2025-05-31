@@ -2,24 +2,67 @@
 
 <h1 align="center">Hi 👋, My name is Abhishek Singh</h1>
 <h3 align="center">I am an enthusiastic web developer, eager to learn and contribute to innovative projects.</h3>
-<br/>
 
-<h3 align="left">👨‍💻 Let me dive into a few of my latest endeavors: </h3>
+---
 
-<p align="left">
-  <p><a href="https://abhisheksingh-77.github.io/Professional-Profile/">Professional-Profile</a></p>
-  <p><a href="https://abhisheksingh-77.github.io/Travel-World/">Travel-World</a></p>
-  <p><a href="https://abhisheksingh-77.github.io/Scholar-Tutorial/">Scholar-Tutorial</a></p>
-  <p><a href="https://abhisheksingh-77.github.io/College-Festive/">College-Festive</a></p>
-</p>
-<br/>
-<h3 align="left">Languages and Tools:</h3>
-<br/>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> &nbsp &nbsp &nbsp &nbsp <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> &nbsp &nbsp &nbsp &nbsp <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> &nbsp &nbsp &nbsp &nbsp <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> &nbsp &nbsp &nbsp &nbsp <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> &nbsp &nbsp &nbsp &nbsp <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/> </a> &nbsp &nbsp &nbsp &nbsp <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> &nbsp &nbsp &nbsp &nbsp <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> &nbsp &nbsp &nbsp &nbsp 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
+## 👨‍💻 Exploring My Latest Creations:
 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a> 
+Let’s take a look at some of my most exciting recent projects !!
 
-</p>
-<br/>
+<table>
+        <thead>
+            <tr>
+                <th> PROJECT NAME</th>
+                <th>TECHNOLOGY STACK</th>
+                <th> LIVE DEMO </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Professional-Profile</td>
+                <td>HTML + CSS + BOOTSTRAP</td>
+                <td>https://abhisheksingh-77.github.io/Professional-Profile/</td>
+            </tr>
+            <tr>
+                <td>Travel-World</td>
+                <td>HTML + CSS + BOOTSTRAP </td>
+                <td>https://abhisheksingh-77.github.io/Travel-World/</td>
+            </tr>
+        </tbody>
+    </table>
+
+---
+
+## 🛠️ Languages and Tools:
+
+<strong>🌟 Front-End Technologies:</strong> 
+  Proficient in HTML5, CSS3, and JavaScript, ensuring well-structured, visually appealing, and dynamic web interfaces.
+  
+<strong>🌟 UI Frameworks:</strong> 
+  Skilled in Bootstrap and Tailwind CSS, leveraging modern design systems for responsive and efficient layouts.
+
+<strong>🌟 Library:</strong> 
+  Experienced in React.js, building scalable, high-performance components for interactive user experiences.
+
+<strong>🌟 Development Tools:</strong> 
+  Familiar with Git for version control, streamlining collaboration and code management.
+
+<strong>🌟 Core Understanding & Upskilling:</strong> 
+  Expanding expertise in Python, Django, and MySQL to enhance back-end development and database management.
+  
+---
+## ✅ Passions:
+
+✔️ <b>Web Development:</b>
+
+I’m passionate about designing efficient, user-friendly, and scalable web applications that address real-world challenges and drive meaningful business results.
+
+✔️ <b>Upskilling:</b>
+
+Continuously learning new tools, frameworks, and best practices fuels my passion to innovate and adapt in a rapidly evolving tech landscape.
+
+---
+
+## ✨ Thrilled to collaborate, expand my knowledge, and drive innovation while creating meaningful solutions together!
+
+---
