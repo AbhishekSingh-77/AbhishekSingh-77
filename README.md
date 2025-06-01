@@ -12,22 +12,32 @@ Let’s take a look at some of my most exciting recent projects !!
 <table>
         <thead>
             <tr>
-                <th> PROJECT NAME</th>
-                <th>TECHNOLOGY STACK</th>
+                <th> NAME </th>
+                <th>TECHNOLOGY STACK </th>
                 <th> LIVE DEMO </th>
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <td>Professional-Profile</td>
-                <td>HTML + CSS + BOOTSTRAP</td>
-                <td>https://abhisheksingh-77.github.io/Professional-Profile/</td>
-            </tr>
-            <tr>
-                <td>Travel-World</td>
-                <td>HTML + CSS + BOOTSTRAP </td>
-                <td>https://abhisheksingh-77.github.io/Travel-World/</td>
-            </tr>
+                <tr>
+                    <td>Calculator-App</td>
+                    <td>JAVASCRIPT</td>
+                    <td>https://abhisheksingh-77.github.io/Calculator-App/</td>
+                </tr>
+                <tr>
+                    <td>To-DO List</td>
+                    <td>JAVASCRIPT</td>
+                    <td>https://abhisheksingh-77.github.io/TO-DO-List/</td>
+                </tr>
+                <tr>
+                    <td>Professional-Profile</td>
+                    <td>HTML + CSS + BOOTSTRAP</td>
+                    <td>https://abhisheksingh-77.github.io/Professional-Profile/</td>
+                </tr>
+                <tr>
+                    <td>Travel-World</td>
+                    <td>HTML + CSS + BOOTSTRAP </td>
+                    <td>https://abhisheksingh-77.github.io/Travel-World/</td>
+                </tr>
         </tbody>
     </table>
 
