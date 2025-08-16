@@ -20,22 +20,22 @@ Let’s take a look at some of my most exciting recent projects !!
         <tbody>
                 <tr>
                     <td>Calculator-App</td>
-                    <td>JAVASCRIPT</td>
+                    <td>JavaScript</td>
                     <td>https://abhisheksingh-77.github.io/Calculator-App/</td>
                 </tr>
                 <tr>
                     <td>To-DO List</td>
-                    <td>JAVASCRIPT</td>
+                    <td>JavaScript</td>
                     <td>https://abhisheksingh-77.github.io/TO-DO-List/</td>
                 </tr>
                 <tr>
                     <td>Professional-Profile</td>
-                    <td>HTML + CSS + BOOTSTRAP</td>
+                    <td>HTML + CSS + Bootstrap</td>
                     <td>https://abhisheksingh-77.github.io/Professional-Profile/</td>
                 </tr>
                 <tr>
                     <td>Travel-World</td>
-                    <td>HTML + CSS + BOOTSTRAP </td>
+                    <td>HTML + CSS + Bootstrap </td>
                     <td>https://abhisheksingh-77.github.io/Travel-World/</td>
                 </tr>
         </tbody>
@@ -47,6 +47,9 @@ Let’s take a look at some of my most exciting recent projects !!
 
 <strong>🌟 Front-End Technologies:</strong> 
   Proficient in HTML5, CSS3, and JavaScript, ensuring well-structured, visually appealing, and dynamic web interfaces.
+
+<strong>🌟 Back-End Technologies:</strong> 
+  Capable of developing robust and scalable backend solutions using Python, with hands-on experience in frameworks like Django and Flask for building RESTful APIs and server-side logic.
   
 <strong>🌟 UI Frameworks:</strong> 
   Skilled in Bootstrap and Tailwind CSS, leveraging modern design systems for responsive and efficient layouts.
@@ -59,6 +62,9 @@ Let’s take a look at some of my most exciting recent projects !!
 
 <strong>🌟 Core Understanding & Upskilling:</strong> 
   Expanding expertise in Python, Django, and MySQL to enhance back-end development and database management.
+
+<strong>🌟 Design & Prototyping Tools:</strong> 
+  Skilled in using 'Figma' for wireframing and collaborative UI design, and 'Canva' for creating engaging graphics, presentations, and social media content.
   
 ---
 ## ✅ Passions:
