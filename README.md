@@ -9,7 +9,7 @@
 
 Here are a few of my creations that reflect my web development skills and design sensibilities:
 
-- **Crypto_Demo** – A fully responsive React-based cryptocurrency trading simulation platform built with Vite and Tailwind CSS.[Live Demo](https://abhishek-cryptodemo.netlify.app/) 
+- **Crypto_Demo** – A fully-responsive cryptocurrency trading simulation platform built with Vite and Tailwind CSS.[Live Demo](https://abhishek-cryptodemo.netlify.app/) 
 - **Calculator App** – A lightweight JavaScript-based calculator with a clean UI. [Live Demo](https://abhisheksingh-77.github.io/Calculator-App/)  
 - **To-Do List** – A simple task manager built using JavaScript for dynamic task handling. [Live Demo](https://abhisheksingh-77.github.io/TO-DO-List/)  
 - **Professional Profile** – A responsive personal portfolio using HTML, CSS, and Bootstrap. [Live Demo](https://abhisheksingh-77.github.io/Professional-Profile/)  
