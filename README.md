@@ -9,32 +9,40 @@
 
 Here are a few of my creations that reflect my web development skills and design sensibilities:
 
-- **Crypto_Demo** – A fully-responsive cryptocurrency trading simulation platform built with Vite and Tailwind CSS.[Live Demo](https://abhishek-cryptodemo.netlify.app/) 
-- **Calculator App** – A lightweight JavaScript-based calculator with a clean UI. [Live Demo](https://abhisheksingh-77.github.io/Calculator-App/)  
-- **To-Do List** – A simple task manager built using JavaScript for dynamic task handling. [Live Demo](https://abhisheksingh-77.github.io/TO-DO-List/)  
-- **Professional Profile** – A responsive personal portfolio using HTML, CSS, and Bootstrap. [Live Demo](https://abhisheksingh-77.github.io/Professional-Profile/)  
-- **Travel World** – A visually engaging travel-themed landing page built with HTML, CSS, and Bootstrap. [Live Demo](https://abhisheksingh-77.github.io/Travel-World/)
+- **Crypto_Demo** – [Live Demo](https://abhishek-cryptodemo.netlify.app/)
+
+  A fully-responsive cryptocurrency trading simulation platform built with Vite and Tailwind CSS.
+- **LivePreviewForm** - [Live Demo](https://abhishek-livepreviewform.netlify.app/)
+
+  A responsive React + Material UI multi-step form with Formik and Yup validation. Includes a live preview panel to review user inputs in real time before submission.
+- **Calculator App** – [Live Demo](https://abhisheksingh-77.github.io/Calculator-App/)
+
+  A lightweight JavaScript-based calculator with a clean UI. 
+- **To-Do List** – [Live Demo](https://abhisheksingh-77.github.io/TO-DO-List/)
+
+  A simple task manager built using JavaScript for dynamic task handling.   
+- **Professional Profile** – [Live Demo](https://abhisheksingh-77.github.io/Professional-Profile/)
+
+  A responsive personal portfolio using HTML, CSS, and Bootstrap.
+- **Travel World** – [Live Demo](https://abhisheksingh-77.github.io/Travel-World/)
+
+  A visually engaging travel-themed landing page built with HTML, CSS, and Bootstrap. 
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 💻 Front-End
-- HTML5, CSS3, JavaScript  
-- React.js, Redux  
-- Bootstrap, Tailwind CSS
+- HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, React.js, Redux   
 
 ### 🖥️ Back-End
-- Python, Django, Flask  
-- RESTful APIs
+- Python, Django, Flask, RESTful APIs
 
 ### 🗄️ Databases
-- MySQL
-- SQLite
+- MySQL, SQLite
 
 ### 🛠️ Development & Deployment
-- Git, GitHub  
-- Netlify (Frontend Hosting)
+- Git, GitHub, Netlify (Frontend Hosting)
 
 ### 🎨 Design & Prototyping
 - Figma (Wireframing & UI Design)  
